@@ -3,4 +3,6 @@ write
 running
 play chess
 sleep
-breakfast
+buy plants!
+swim
+washing
