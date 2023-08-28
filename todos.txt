@@ -1,0 +1,5 @@
+shower
+write
+running
+play chess
+sleep
